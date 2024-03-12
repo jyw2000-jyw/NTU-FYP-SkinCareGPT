@@ -1,6 +1,5 @@
 # NTU-FYP-SkinCareGPT
 Project under working.
 
-Update!!!
-
+**Update!!!**  
 The demo-v1 has been uploaded.
